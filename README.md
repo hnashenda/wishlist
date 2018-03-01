@@ -1,2 +1,2 @@
 # Wishlist
-An Ecommerce wishlist application developed for Wordpress/Woocommerce using PHP
+An Ecommerce wishlist plugin developed for Wordpress/Woocommerce using PHP
